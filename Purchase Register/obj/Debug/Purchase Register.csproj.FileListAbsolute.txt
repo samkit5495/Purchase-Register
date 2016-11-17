@@ -1,0 +1,30 @@
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe.config
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\bin\Debug\Purchase Register.pdb
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csprojResolveAssemblyReference.cache
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.PurchaseRegister.resources
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.Properties.Resources.resources
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csproj.GenerateResource.Cache
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase Register.exe
+c:\users\samkit\documents\visual studio 2015\Projects\Purchase Register\Purchase Register\obj\Debug\Purchase Register.pdb
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe.config
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.exe
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.pdb
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.pdb
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csprojResolveAssemblyReference.cache
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.PurchaseRegister.resources
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.Properties.Resources.resources
+F:\Files\IMP Study Material\C #\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csproj.GenerateResource.Cache
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe.config
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.exe
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.pdb
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.exe
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\bin\Debug\Purchase Register.pdb
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csprojResolveAssemblyReference.cache
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.Home.resources
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.Properties.Resources.resources
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase Register.csproj.GenerateResource.Cache
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.frmPurchaseRegister.resources
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.frmDistributor.resources
+F:\Dropbox\Documents\Project\Purchase Register\Purchase Register\obj\Debug\Purchase_Register.frmViewEntries.resources
